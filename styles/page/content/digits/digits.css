@@ -1,6 +1,6 @@
 @import url(table.css);
-@import url(section__title/section__title.css);
-@import url(section__subtitle/section__subtitle.css);
+@import url(section-title/section-title.css);
+@import url(section-subtitle/section-subtitle.css);
 
 .digits {
    margin: 0;
