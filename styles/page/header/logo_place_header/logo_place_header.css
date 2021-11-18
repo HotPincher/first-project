@@ -1,1 +1,7 @@
 @import url(../../logo/logo.css);
+
+.logo_place_header {
+  height: 32px;
+  position: absolute;
+  top: 30px;
+}

@@ -1,8 +1,13 @@
-@import url(../../../arrow-link/arrow-link.css);
-
 .khan__buy-link {
     line-height: 42px;
     font-size: 30px;
     font-weight: normal;
     margin-left: 40px;
+    color: #2f80ed;
+    text-decoration: none;
+    margin: 0;
+}
+
+.link:hover {
+    opacity: 0.6;
 }

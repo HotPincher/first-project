@@ -1,0 +1,12 @@
+.table__text {
+    margin-top: 20px;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+
+.table__text_theme-dark {
+    color: #f2f2f2;
+    margin-top: 20px;
+}
