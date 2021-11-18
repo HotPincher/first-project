@@ -7,8 +7,15 @@
 .footer__columns {
     width: 90%;
     display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
     flex-direction: row;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
     justify-content: space-between;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
     /* flex-basis: 711px; */
     margin: 0;
 }
