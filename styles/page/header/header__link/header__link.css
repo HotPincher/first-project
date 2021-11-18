@@ -1,12 +1,15 @@
 .header__link {
     color: #2f80ed;
+    display: inline-block;
     text-decoration: none;
     margin: 0;
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
+    transition: translate linear;
 }
 
 .header__link:hover {
     opacity: 0.6;
+    transform: translate(12px);
 }
