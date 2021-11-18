@@ -1,10 +1,17 @@
 .logo {
   width: 183px;
-  height: 32px;
   margin: 0px;
 
 }
 
-.logo__theme_dark {
+.logo_place_header {
+  height: 32px;
+  position: absolute;
+  top: 30px;
+}
+
+.logo_place_footer {
   height: 35px;
+  position: absolute;
+  top: 60px;
 }

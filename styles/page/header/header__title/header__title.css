@@ -1,9 +1,6 @@
 .header__title {
     width: 730px;
-    position: absolute;
     margin: 0;
-    left: 64px;
-    justify-self: center;
     z-index: 2;
     line-height: 96px;
     font-weight: bold;

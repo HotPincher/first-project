@@ -18,10 +18,10 @@
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
-    justify-content: space-around;    
-    -ms-flex-pack: distribute;
+    justify-content: flex-end;    
     flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     overflow: hidden;
+    padding-left: 64px;
 }   
 
