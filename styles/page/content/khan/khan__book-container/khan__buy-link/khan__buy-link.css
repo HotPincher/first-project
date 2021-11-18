@@ -1,0 +1,8 @@
+@import url(../../../arrow-link/arrow-link.css);
+
+.khan__buy-link {
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+    margin-left: 40px;
+}

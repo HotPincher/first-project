@@ -1,0 +1,6 @@
+@import url(../../logo/logo.css);
+
+.logo_place_footer {
+    position: absolute;
+    top: 60px;
+}

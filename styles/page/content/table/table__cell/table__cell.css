@@ -1,0 +1,12 @@
+.table__cell {
+    width: 250px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: start; 
+    flex-wrap: wrap;
+ }
+ 
+ .table__cell_theme-dark {
+    width: 200px;
+    margin-top: 80px;
+}

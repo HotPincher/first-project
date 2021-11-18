@@ -1,0 +1,8 @@
+@import url(footer__author/footer__author.css);
+
+.footer__column_content_copyright {
+    display: flex;
+    padding: 0 580px 18px 0;
+    flex-direction: column;
+    justify-content: flex-end;
+}
