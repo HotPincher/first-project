@@ -3,6 +3,9 @@
 .description {
     margin: 0;
     display: flex;
-    align-content: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
     padding-top: 100px;
 }
