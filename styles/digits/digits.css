@@ -1,0 +1,15 @@
+@import url(../table/table.css);
+@import url(../section-title/section-title.css);
+@import url(../section-subtitle/section-subtitle.css);
+
+.digits {
+   margin: 0;
+   padding-top: 100px;
+   padding-bottom: 100px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+
+

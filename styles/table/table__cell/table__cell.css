@@ -1,0 +1,10 @@
+@import url(table__cell_theme-dark/table__cell_theme-dark.css);
+
+.table__cell {
+    width: 250px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: start; 
+    flex-wrap: wrap;
+ }
+

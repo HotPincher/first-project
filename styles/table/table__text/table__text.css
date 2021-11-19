@@ -1,0 +1,10 @@
+@import url(table__text_theme-dark/table__text_theme-dark.css);
+
+.table__text {
+    margin-top: 20px;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+
