@@ -1,3 +1,5 @@
+@import url(../../link/link.css);
+
 .feynmann__link {
     position: absolute;
     right: 40px;
@@ -6,12 +8,7 @@
     font-size: 36px;
     font-weight: normal;
     color: #2f80ed;
-    text-decoration: none;
-    transition: translate linear;
-
-    }
+    margin: 0;
     
-.link:hover {
-    opacity: 0.6;
-    transform: translate(12px);
 }
+    
