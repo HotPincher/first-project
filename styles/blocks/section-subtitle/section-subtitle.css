@@ -8,6 +8,7 @@
     font-weight: normal;
     color: #000;
     display: block;
+    z-index: 1;
 }
 
 .section-subtitle_theme-dark {
