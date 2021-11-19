@@ -1,0 +1,13 @@
+@import url(_theme-dark/link_theme-dark.css);
+
+.link {
+    transition: translate linear;
+    text-decoration: none;
+    text-decoration: none;
+    
+}
+
+.link:hover {
+    opacity: 0.6;
+    transform: translate(4px);
+}

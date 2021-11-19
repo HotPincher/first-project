@@ -1,0 +1,19 @@
+
+.khan__book-container {
+    text-align: end;
+    height: 620px;
+    padding-top: 68px;
+    padding-left: 648px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-image: url(../../../../../images/khan-book.jpg);
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: 620px auto;
+    overflow: hidden;
+    background-position-y: 68px;
+
+}
+
