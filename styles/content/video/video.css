@@ -1,8 +1,0 @@
-@import url(video__iframe/video__iframe.css);
-@import url(../../../section-title/section-title.css);
-@import url(../../../section-subtitle/section-subtitle.css);
-
-.video {
-    margin: 0 auto;
-    padding-top: 100px;
-}
