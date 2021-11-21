@@ -1,9 +1,0 @@
-@import url(../table__cell/table__cell_theme-dark/table__cell_theme-dark.css);
-@import url(../table__heading/table__heading_theme-dark/table__heading_theme-dark.css);
-@import url(../table__text/table__text_theme-dark/table__text_theme-dark.css);
-
-
-.table_theme-dark {
-    margin: 0;
-    z-index: 1;
-}
