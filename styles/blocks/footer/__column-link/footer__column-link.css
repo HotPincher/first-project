@@ -2,16 +2,9 @@
 .footer__column-link {
     margin: 0;
     display: flex;
-    display: -webkit-box;
-    display: -ms-flexbox;
     flex-direction: row;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: row;
-    justify-content: start;
-    align-items: flex-end;
-    -webkit-box-align: start;
-    -ms-flex-align: start;
+    justify-content: space-between;
+    align-items: center;
 
 }
 
