@@ -1,6 +1,8 @@
-@import url(__container/khan__container.css);
+
 
 .khan {
     padding-top: 100px;
     background-color: #f2f2f2;   
+    font-family: 'Inter', 'Arial', sans-serif;
+    color: #000000;
 }

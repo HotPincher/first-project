@@ -1,9 +1,10 @@
-@import url(_theme-dark/link_theme-dark.css);
+
 
 .link {
     transition: translate linear;
     text-decoration: none;
     text-decoration: none;
+    font-family: 'Inter', 'Arial', sans-serif;
     
 }
 

@@ -9,6 +9,8 @@
     color: #000;
     display: block;
     z-index: 1;
+    font-family: 'Inter', 'Arial', sans-serif;
+    color: #000000;
 }
 
 .section-subtitle_theme-dark {
