@@ -9,7 +9,7 @@
 }
 
 
-.kaufman__triangle_rotation, .header__square-pic_rotation {
+.rotation_header, .rotation_kaufman {
     animation-name: rotation;
     animation-duration: 20s;
     animation-iteration-count: infinite;
