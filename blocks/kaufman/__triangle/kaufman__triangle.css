@@ -4,7 +4,7 @@
     height: 800px; 
     width: 800px;
     display: flex;
-    justify-items: start;
+    justify-content: start;
     position: absolute;
     right: -210px;
     top: 0;
